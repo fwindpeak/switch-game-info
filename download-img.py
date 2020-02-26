@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from ConstData import AreaCode
 import json
 import os
